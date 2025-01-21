@@ -1,0 +1,22 @@
+.manageEmployee{
+    text-decoration: none;
+    font-weight: bolder;
+    color: white;
+}
+
+.manageEmployee:hover{
+    color: black;
+    transform: translateY(10%);
+    transition: .3s;
+    background: none;
+    outline: none;
+    background: white;
+    padding: .5rem;
+    border: none;
+    border-radius: .5rem;
+}
+
+.dashbord{
+    font-weight: bolder;
+    font-size: 1.5rem;
+}
